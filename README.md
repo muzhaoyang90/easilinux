@@ -7,11 +7,11 @@ one of my easi-series(means easy to use), easy to use linux. include some useful
 how to start!
 *****************************************************************
 install all the package below
+*****************************************************************
 
 import datetime, os, re, subprocess, time
 from threading import Timer
-# linux need to import the readline below; windows not
-import readline
+import readline  # linux need to import the readline below; windows not
 *****************************************************************
 
 
