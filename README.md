@@ -26,6 +26,9 @@ install all the package below
 
 ##### command1:  use help to see all function and command
 ![image](https://user-images.githubusercontent.com/20569520/199637076-18996e41-368e-402b-9c56-826c25178f44.png)
+##### command2:  eg.  use "warn" to see hardware and mem use
+![image](https://github.com/user-attachments/assets/951a9f95-3e02-49f1-ac46-da62a2b8f263)
+
 
 ##### command2 : u alse can type hello to it !  although it doesn't show in help. but we did it . we hope it can provide u a nice experience!
 ![image](https://user-images.githubusercontent.com/20569520/199637303-847fea5e-60d1-4e54-9442-6ff1aed7449a.png)
